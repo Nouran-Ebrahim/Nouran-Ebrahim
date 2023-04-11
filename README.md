@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nouran El-Mohamady</h1>
 <h3 align="center">A passionate Full stack developer from Egypt</h3>
 
-<p align="center"><img src='https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif' width="" /></p>
+<p align="center"><img src='https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif' width="" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouran-ebrahim&label=Profile%20views&color=0e75b6&style=flat" alt="nouran-ebrahim" /> </p>
 
