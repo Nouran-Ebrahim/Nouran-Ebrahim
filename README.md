@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouran El-Mohamady</h1>
-<h3 align="center">A passionate Full stack developer from Egypt</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from Egypt</h3>
 
 <p align="center"><img src='https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif' width="" /></p>
 
